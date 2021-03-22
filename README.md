@@ -2,8 +2,4 @@
 
 I'm **Umid**, Backend developer and I have been doing web programming since 2016. I use PHP, Python, Go languages as my main tool. I work on myself always.
 
-- name: add social icons
-  uses: elangosundar/social-ai@master
-  with:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    social-icons: '[ { "socialName": "twitter", "userName": "elango_sundar"}, { "socialName": "facebook", "userName": "elango_sundar"}, { "socialName": "dev-dot-to", "userName": "elango_sundar"}, { "socialName": "codesandbox", "userName": "elango_sundar"},{ "socialName": "stackoverflow", "userName": "elango_sundar"}, { "socialName": "youtube", "userName": "elango_sundar"}]'
+<p align="center"> <a href="https://twitter.com/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="elango_sundar" height="20" width="20" /></a> <a href="https://fb.com/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="elango_sundar" height="20" width="20" /></a> <a href="https://dev.to/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="elango_sundar" height="20" width="20" /></a> <a href="https://codesandbox.com/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="elango_sundar" height="20" width="20" /></a> <a href="https://stackoverflow.com/users/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="elango_sundar" height="20" width="20" /></a> <a href="https://www.youtube.com/c/elango_sundar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="elango_sundar" height="20" width="20" /></a></p>
