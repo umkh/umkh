@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-## **My name is Umid and I'm a full stack web developer.**
+## **I am a Backend developer and I have been doing web programming since 2016. I use PHP, Python, Go languages as my main tool. I work on myself everyday.
+**
 
 ### 📫 How to reach me: [contact@mukhtarov.uz](mailto:contact@mukhtarov.uz)
 
