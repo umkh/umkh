@@ -12,7 +12,7 @@ I'm **Umid**, Backend developer and I have been doing web programming since 2016
   <a href="https://t.me/imukhtorov" target="_blank" >
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="Umidjon Mukhtorov" height="20" width="20" />
   </a>
-  <a href="https://instagram.com/imukhtarov_" target="_blank" >
+  <a href="https://instagram.com/imukhtorov_" target="_blank" >
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Umidjon Mukhtorov" height="20" width="20" />
   </a>
 </p>
